@@ -21,7 +21,7 @@
 title: Danny's home
 email: danny6543211@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  It is my personal blog, I will write some coding thoughts and maybe diary on it.
+  Some study thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danny6543211.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
